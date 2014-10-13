@@ -18,5 +18,6 @@ int main(void) {
     printf("29");  
   else    
     printf("28"); 
+    return 0;
 }
   
