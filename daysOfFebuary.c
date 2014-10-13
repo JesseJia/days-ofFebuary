@@ -1,5 +1,5 @@
 #include<stdio.h> 
-void main() {   
+int main(void) {   
   int year,leap;   
   scanf("%d",&year);  
   if(year%4==0)  {    
